@@ -1,0 +1,8 @@
+# Ignore environment folder
+env/
+
+# Ignore build folder
+build/
+
+# Ignore distribution folder
+dist/
